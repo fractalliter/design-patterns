@@ -1,0 +1,18 @@
+{
+  "name": "factory-pattern",
+  "version": "1.0.0",
+  "description": "A factory pattern in JavaScript for abstracting classes and services from end user",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node index.js"
+  },
+  "keywords": [
+    "Design pattern",
+    "Factory pattern",
+    "Abstraction",
+    "JavaScript"
+  ],
+  "author": "fractalliter <eliass.rahmani@gmail.com>",
+  "license": "MIT"
+}
